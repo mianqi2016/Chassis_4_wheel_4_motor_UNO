@@ -16,7 +16,7 @@ Hardware modules:
 12. AT24C01C
 13. NEO-6M
 
-Software component:
+Software components:
 1. PCINT
 2. SoftwareSerial
 3. EXTI
