@@ -5,6 +5,7 @@ Hardware framework:
 1. DC Motor
 2. L298n
 3. IR-counter
+4. 8-Channel Remote Controller 2.4GHz
 
 Hardware modules:
 1. IR_counter
@@ -27,3 +28,4 @@ Software components:
 1. PCINT
 2. SoftwareSerial
 3. EXTI
+4. pulseIn()
